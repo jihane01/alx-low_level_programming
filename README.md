@@ -1,3 +1,1 @@
-# 0x03-debugging
-## Description
-debugging c language projects
+0x00. C - Hello, World 
